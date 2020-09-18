@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "571392815715",
+    "firebase_url": "https://allout-app.firebaseio.com",
+    "project_id": "allout-app",
+    "storage_bucket": "allout-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571392815715:android:c6aacd49abaab6294ffe56",
+        "android_client_info": {
+          "package_name": "com.all_out"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571392815715-beo6gj9oc8tbusar8soqh1b38r66g30v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.all_out",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "571392815715-sojbmfr9a5jcqnpr87sqc6k27cl1ievf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpIkxodoQvSe_dD-VUvxOMeihOuaZMQ0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571392815715-sojbmfr9a5jcqnpr87sqc6k27cl1ievf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
